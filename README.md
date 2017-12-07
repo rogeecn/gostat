@@ -1,0 +1,2 @@
+# gostat
+go os state
